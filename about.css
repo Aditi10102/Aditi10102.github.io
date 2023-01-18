@@ -185,12 +185,14 @@ header{
 }
 
 .app-text2 h1{
-	font-size: 33px;
-	width: 300px;
+	font-size: 63px;
+	width: 600px;
 	position: relative;
 	margin-left: 250px;
 	margin-top: 50px;
 	font-family: "Arial", sans-serif;
+	font-weight: 600;
+	padding: 0px 150px;
 }
 
 
@@ -203,12 +205,13 @@ header{
 
 .about_text h4{
 	margin-top: 70px;
-	width: 550px;
-	font-size: 15px;
-	margin-left: 15px;
+	width: 600px;
+	font-size: 17px;
+	margin-left: -70px;
 	line-height: 25px;
 	color: #393939;
 	font-family: "Arial", sans-serif;
+	font-weight: 400;
 }
 
 
@@ -238,12 +241,11 @@ header{
 }
 
 .box{
-	
-	background-color: #E5D2CE;
-	height: 650px;
-	margin-top: 700px;
+	background-color: #F0E7E6 ;
+	height: 800px;
+	margin-top: 790px;
 	justify-content: space-between;
-	
+	padding: 20px 20px;
 }
 
 .box h2{
@@ -274,8 +276,8 @@ header{
 
 .banner1{
 	width: 100%;
-	height: 300px;
-	top: 3050px;
+	height: 350px;
+	top: 3250px;
 	left:0px;
 	position: absolute;
 	
@@ -308,7 +310,7 @@ header{
 
 .team_img{
 	width: 100%;
-	height: 300px;
+	height: 350px;
 	top:2150px;
 	left: 0px;
 	position: absolute;
@@ -333,8 +335,8 @@ header{
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  padding: 20px 30px;
+  height: 350px; /* Should be removed. Only for demonstration */
 }
 
 .column img{
@@ -358,20 +360,21 @@ header{
 
 .main_btn button{
 	font-family: "Montserrat", sans-serif;
-	font-weight: 500;
+	font-weight: 600;
 	font-size: 16px;
 	color: black;
 	text-decoration:none;
 }
 
 .main_btn button{
-	padding: 9px 25px;
+	padding: 11px 25px;
 	background-color: white;
 	border-color: black;
-	border-radius: 20px;
+	border-radius: 15px;
 	cursor:pointer;
 	transition: all 0.3s ease 0s;
 	margin-left: 15px;
+	border: 3px solid black;
 }
 
 .main_btn button:hover{
