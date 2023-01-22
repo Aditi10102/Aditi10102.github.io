@@ -1,4 +1,4 @@
-@media screen and (max-width: 720px) {
+
 *{
 	box-sizing: border-box;
 	margin: 0;
@@ -658,4 +658,4 @@ position: relative;
 .nav-list li a:hover {
 	color: grey;
 }*/
-}
+
