@@ -1,5 +1,5 @@
 @media screen and (max-width: 500px) {
-  .nav_links a {
+  .nav_links {
     float: none;
     width: 100%;
   }
