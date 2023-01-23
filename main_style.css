@@ -1,8 +1,13 @@
 @media screen and (max-width: 400px) {
-  .nav_links {
+  nav_links {
     float: none;
     width: 100%;
   }
+
+	header{
+		float: none;
+		width: 100%;
+	}
 }
 *{
 	box-sizing: border-box;
