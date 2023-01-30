@@ -377,7 +377,7 @@ header{
 }
 
 @media (max-width: 600px) {
-	nav_links{
+	header{
 		display: flex;
 		align-items: center;
 		flex-direction: column;	
