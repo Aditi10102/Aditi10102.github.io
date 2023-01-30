@@ -377,6 +377,12 @@ header{
 }
 
 @media (max-width: 600px) {
+	nav_links{
+		display: flex;
+		align-items: center;
+		flex-direction: column;	
+		width: 100%;
+	}
    firstsection {
     	display: flex;
 	align-items: center;
