@@ -377,10 +377,10 @@ header{
 }
 
 @media (max-width: 600px) {
-  banner {
+   firstsection {
     	display: flex;
 	align-items: center;
 	flex-direction: column;
-	width: 90%;
+	background: #645C5A;
   }
 }
