@@ -1,14 +1,4 @@
-@media screen and (max-width: 500px) {
-  .nav_links {
-    float: none;
-    width: 100%;
-  }
 
-	.header{
-		float: none;
-		width: 100%;
-	}
-}
 *{
 	box-sizing: border-box;
 	margin: 0;
@@ -612,6 +602,15 @@ header{
 	line-height: 25px;
 	color: black;
 	font-family: "Arial", sans-serif;
+}
+
+@media (max-width: 600px) {
+	banner {
+		display: flex;
+		align-items: center;
+		flex-direction: column;	
+		width: 100%;
+	}
 }
 
 /**{
