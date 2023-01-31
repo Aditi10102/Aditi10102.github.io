@@ -300,12 +300,6 @@ header{
   clear: both;
 }
 
-@media screen and (max-width: 600px) {
-  .column1 {
-    width: 100%;
-  }
-}
-
 .mainhouse{
 	font-size: 30px;
 	width: 100%;
@@ -497,12 +491,6 @@ header{
   content: "";
   display: table;
   clear: both;
-}
-
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
 }
 
 .about_banner{
