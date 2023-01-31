@@ -601,6 +601,10 @@ header{
 		height: auto;
 		justify-content: space-around;
 	}
+	
+	banner app-pic{
+		width: 30%;
+	}
 }
 
 /**{
