@@ -599,6 +599,7 @@ header{
 		flex-direction: column;	
 		width: 100%;
 		height: auto;
+		background-size: cover;
 	}
 	
 	.about_banner1{
@@ -607,7 +608,7 @@ header{
 		flex-direction: column;	
 		width: 100%;
 		height: auto;
-		margin-top: auto;
+		margin-top: 100px;
 	}
 	
 	.app-pic{
