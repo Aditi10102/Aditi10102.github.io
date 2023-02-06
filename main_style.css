@@ -602,6 +602,10 @@ header{
 		justify-content: space-around;
 	}
 	
+	.about_banner1{
+		margin-top: auto;
+	}
+	
 	.app-pic{
 		width: 30%;
 	}
