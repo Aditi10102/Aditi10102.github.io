@@ -593,7 +593,7 @@ header{
 }
 
 @media only screen and (max-width: 480px) {
-	banner {
+	.banner {
 		display: flex;
 		align-items: center;
 		flex-direction: column;	
@@ -602,7 +602,7 @@ header{
 		justify-content: space-around;
 	}
 	
-	app-pic{
+	.app-pic{
 		width: 30%;
 	}
 }
